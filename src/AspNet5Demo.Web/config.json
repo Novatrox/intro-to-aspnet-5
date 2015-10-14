@@ -1,0 +1,5 @@
+﻿{
+  "greeting": "Hello from config!",
+  "debug.prefix": "DEBUG: ",
+  "GoogleMap.Key":  "[INSERT GOOGLE MAPS KEY]"
+}

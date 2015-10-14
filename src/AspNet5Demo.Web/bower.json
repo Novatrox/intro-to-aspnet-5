@@ -1,0 +1,19 @@
+{
+  "name": "AspNet5Demo.Web",
+  "version": "0.0.0",
+  "authors": [
+    "Chris Klug <chris.klug@novatrox.se>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.7",
+    "bootstrap": "~3.3.5"
+  }
+}

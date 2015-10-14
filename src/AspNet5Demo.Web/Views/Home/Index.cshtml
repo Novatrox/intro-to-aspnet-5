@@ -1,0 +1,15 @@
+﻿@inject Microsoft.Framework.Configuration.IConfiguration Config
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Hello</title>
+</head>
+<body>
+    <div>
+        <h1>@Model</h1>
+        @Config["greeting"]
+    </div>
+</body>
+</html>
